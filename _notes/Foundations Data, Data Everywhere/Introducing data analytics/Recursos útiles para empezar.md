@@ -1,0 +1,1 @@
+Para obtener el certificado de **Google Data Analytics** se necesita completar todos las asignaciones requeridas en el curso. Cada tarea calificada forma parte de una calificación acumulativa, y la calificación minima para obtener el certificado es del 80%.
